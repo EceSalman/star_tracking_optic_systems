@@ -1,9 +1,20 @@
 # star_tracking_all
 
-Bu repo, star tracker tarafında üzerinde çalıştığım notları ve ara raporları toplamak için açıldı.
+Bu repo, star tracker tarafinda calistigim notlari, ara raporlari ve teknik calisma dosyalarini toplamak icin acildi.
 
-Şimdilik eklenen içerik:
+Simdilik icerik mukemmel ya da tamamlanmis degil. Ama yaptigim ilerlemeyi gorunur tutmak, arkadaslarla paylasmak ve ileride daha duzenli teknik dokumanlara donusturmek icin burada tutuluyor.
 
-- `baffle_WO_vanes_rapor.pdf`
+## Su an ne var?
 
-Bu dosya, vane içermeyen bir baffle yapısı üzerine ilk çalışma notlarımdan ve düşünce akışlarımdan oluşan bir ara rapordur. Nihai teknik doküman değildir; ilerledikçe genişletilecek ve temizlenecektir.
+- [`baffle_WO_vanes_rapor.pdf`](./baffle_WO_vanes_rapor.pdf)
+- [`docs/baffle_raporu_hakkinda.md`](./docs/baffle_raporu_hakkinda.md)
+
+## Bu repo'nun amaci
+
+- Star tracker optigi uzerine calisma notlarini toplamak
+- Baffle, stray light, sensor, PSF ve centroid gibi konularda ilerlemeyi belgelemek
+- Henuz issue'ya baglanmamis ama faydali olabilecek teknik dusunceleri kaybetmemek
+
+## Not
+
+Buradaki bazi dosyalar ilk taslak niteligindedir. Yani bunlar nihai tasarim dokumani degil; ogrenme, arastirma ve teknik dusunce gelistirme surecinin kayitlaridir.
