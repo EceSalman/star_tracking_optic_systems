@@ -1,10 +1,10 @@
 # Star Tracker Sistemlerinde Baffle Elemaninin Islevi ve Tasarim Esaslari
 
-Bu dosya, [`baffle_WO_vanes_rapor.pdf`](../baffle_WO_vanes_rapor.pdf) iceriginden Markdown formatina cevrilmis calisma metnidir.
+Bu dosya, [`baffle_WO_vanes_rapor.pdf`](../pdf/baffle_WO_vanes_rapor.pdf) iceriginden Markdown formatina cevrilmis calisma metnidir.
 
 ## Not
 
-- Kaynak belge: `baffle_WO_vanes_rapor.pdf`
+- Kaynak belge: `pdf/baffle_WO_vanes_rapor.pdf`
 - Amac: Raporu VS Code ve AI araclari tarafinda daha kolay okunabilir hale getirmek
 - Donusum tipi: PDF'den duz metin/Markdown donusumu
 - Durum: Ilk duzenlenmis surum

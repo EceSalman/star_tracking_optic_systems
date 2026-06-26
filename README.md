@@ -1,34 +1,55 @@
 # star_tracking_all
 
-Bu repo, star tracker tarafinda calistigim notlari, ara raporlari ve teknik calisma dosyalarini duzenli sekilde toplamak icin acildi.
+Bu repo, star tracker optigi ve algilama zinciri uzerine yuruttugum teknik arastirma notlarini, ara raporlari ve PDF/Markdown dokumanlarini duzenli sekilde toplamak icin kullaniliyor.
 
-Amacim, her gun ilerlemeyi hem `PDF` hem `Markdown` olarak kaydetmek, GitHub uzerinden gorunur tutmak ve zamanla daha duzenli teknik dokumanlara donusturmek.
+Repo amaci iki katmanli:
 
-## Dosya duzeni
+- gunluk arastirma ve teknik dusunceyi kaybetmemek
+- olgunlasan notlari paylasilabilir teknik dokumanlara donusturmek
 
-- `PDF` dosyalari repo kokunde tutulur.
-- `Markdown` notlari `docs/` klasorunde tutulur.
-- Her yeni teknik not mumkun oldugunca `PDF + MD` cifti olarak eklenir.
+## Repo mantigi
 
-## Mevcut icerik
+Bu repo bir "nihai tasarim dokuman seti" degil. Daha cok:
 
-### Baffle calismalari
+- arastirma notlari
+- teknik ara raporlar
+- PDF kaynaklari
+- Markdown'a aktarilmis okunabilir surumler
 
-- PDF: [`baffle_WO_vanes_rapor.pdf`](./baffle_WO_vanes_rapor.pdf)
-- MD: [`docs/baffle_WO_vanes_rapor.md`](./docs/baffle_WO_vanes_rapor.md)
-- Ek not: [`docs/baffle_raporu_hakkinda.md`](./docs/baffle_raporu_hakkinda.md)
+bir arada tutulan duzenli bir muhendislik deposu olarak kurgulandi.
 
-### CMOS APS / PPD calismalari
+## Klasor yapisi
 
-- PDF: [`CMOS_APS_PPD_star_tracker.pdf`](./CMOS_APS_PPD_star_tracker.pdf)
-- MD: [`docs/CMOS_APS_PPD_star_tracker.md`](./docs/CMOS_APS_PPD_star_tracker.md)
+- `pdf/`: kaynak PDF belgeleri
+- `docs/`: Markdown notlari, donusturulmus metinler ve ek aciklamalar
 
-## Bu repo'nun amaci
+## Belge dizini
 
-- Star tracker optigi uzerine calisma notlarini toplamak
-- Baffle, stray light, sensor, PSF, centroid ve goruntuleme zinciri gibi konularda ilerlemeyi belgelemek
-- Henuz issue'ya baglanmamis ama faydali olabilecek teknik dusunceleri kaybetmemek
+| Konu | Durum | Markdown | PDF |
+| --- | --- | --- | --- |
+| Baffle temel raporu | Taslak / donusturulmus not | [`docs/baffle_WO_vanes_rapor.md`](./docs/baffle_WO_vanes_rapor.md) | [`pdf/baffle_WO_vanes_rapor.pdf`](./pdf/baffle_WO_vanes_rapor.pdf) |
+| Baffle aciklama notu | Yardimci not | [`docs/baffle_raporu_hakkinda.md`](./docs/baffle_raporu_hakkinda.md) | - |
+| CMOS APS / PPD star tracker notu | Duzenlenmis teknik not | [`docs/CMOS_APS_PPD_star_tracker.md`](./docs/CMOS_APS_PPD_star_tracker.md) | [`pdf/CMOS_APS_PPD_star_tracker.pdf`](./pdf/CMOS_APS_PPD_star_tracker.pdf) |
+
+Detayli belge listesi icin: [`docs/README.md`](./docs/README.md)
+
+## Calisma prensibi
+
+Ileride bu repo su sekilde buyuyecek:
+
+1. Yeni teknik calisma once PDF veya ham not olarak uretilir.
+2. Uygunsa Markdown surumu `docs/` altina eklenir.
+3. README'deki belge dizinine ilgili kayit eklenir.
+4. Taslak, ara not ve daha olgun teknik metinler birbirinden ayristirilarak tutulur.
+
+## Teknik odak alanlari
+
+- star tracker optigi
+- baffle ve stray light kontrolu
+- sensor mimarisi
+- PSF, centroid ve goruntu kalitesi
+- algilama zinciri ve yonelim dogrulugu
 
 ## Not
 
-Buradaki bazi dosyalar ilk taslak niteligindedir. Bunlar nihai tasarim dokumani degil; ogrenme, arastirma ve teknik dusunce gelistirme surecinin kayitlaridir.
+Buradaki bazi belgeler ham PDF donusumu oldugu icin dil, karakter kodlamasi veya bicim acisindan tam temiz olmayabilir. Bu normaldir; repo hem arastirma arsivi hem de giderek temizlenen teknik dokuman havuzu gibi kullanilmaktadir.

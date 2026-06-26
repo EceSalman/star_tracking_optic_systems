@@ -4,7 +4,7 @@ Bu klasordeki calisma, star tracker optiginde `baffle` konusunu anlamaya yonelik
 
 ## PDF
 
-- [`../baffle_WO_vanes_rapor.pdf`](../baffle_WO_vanes_rapor.pdf)
+- [`../pdf/baffle_WO_vanes_rapor.pdf`](../pdf/baffle_WO_vanes_rapor.pdf)
 - [`./baffle_WO_vanes_rapor.md`](./baffle_WO_vanes_rapor.md)
 
 ## Bu rapor neyi kapsiyor?

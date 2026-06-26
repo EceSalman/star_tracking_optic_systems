@@ -1,5 +1,7 @@
 # CMOS APS - PPD - Star Tracker Teknik Notu
 
+Bu dosya, [`CMOS_APS_PPD_star_tracker.pdf`](../pdf/CMOS_APS_PPD_star_tracker.pdf) iceriginden duzenlenmis Markdown notu olarak hazirlanmistir.
+
 ## CMOS APS, Pinned Photodiode (PPD) ve Foton Soğurulması
 
 ### Star Tracker Sensör Mimarisi Açısından Teknik İnceleme
