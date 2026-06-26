@@ -2,7 +2,7 @@
 
 Bu repo, star tracker tarafinda calistigim notlari, ara raporlari ve teknik calisma dosyalarini toplamak icin acildi.
 
-Simdilik icerik mukemmel ya da tamamlanmis degil. Ama yaptigim ilerlemeyi gorunur tutmak, arkadaslarla paylasmak ve ileride daha duzenli teknik dokumanlara donusturmek icin burada tutuluyor.
+Simdilik icerik  tamamlanmis degil, yaptigim ilerlemeyi gorunur tutmak, arkadaslarla paylasmak ve ileride daha duzenli teknik dokumanlara donusturmek icin burada tutuluyor.
 
 ## Su an ne var?
 
